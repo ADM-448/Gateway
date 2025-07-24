@@ -70,7 +70,7 @@ jhipster:
     name: 'gatewayMiniCursoApp'
   mail:
     from: GatewayMiniCurso@localhost.com
-    base-url: http://127.0.0.1:8080
+    base-url: http://127.0.0.1:9090
   logging:
     # To test json console appender
     use-json-format: false

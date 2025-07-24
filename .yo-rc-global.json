@@ -2,7 +2,8 @@
   "generator-jhipster:7.9.3": {
     "promptValues": {
       "packageName": "com.minicurso.entrega",
-      "nativeLanguage": "pt-br"
+      "nativeLanguage": "pt-br",
+      "microservicePath": "C:\\Users\\Usuário\\Desktop\\POO24-main\\POO24-main\\Curso Angular YT\\Jhispter Sem keykloac\\Service"
     }
   }
 }

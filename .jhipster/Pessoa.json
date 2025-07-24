@@ -1,0 +1,22 @@
+{
+  "changelogDate": "20250724174211",
+  "clientRootFolder": "minicurso",
+  "databaseType": "sql",
+  "dto": "mapstruct",
+  "fields": [
+    {
+      "fieldName": "nome",
+      "fieldType": "String",
+      "fieldValidateRules": ["required", "minlength"],
+      "fieldValidateRulesMinlength": "3"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "minicurso",
+  "microservicePath": "C:\\Users\\Usuário\\Desktop\\POO24-main\\POO24-main\\Curso Angular YT\\Jhispter Sem keykloac\\Service",
+  "name": "Pessoa",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceImpl"
+}
